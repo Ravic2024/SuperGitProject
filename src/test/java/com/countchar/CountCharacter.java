@@ -6,7 +6,7 @@ public class CountCharacter {
 		public static void main(String[] args) {
 			// TODO Auto-generated method stub
 			
-			String Str = "Udhayan is a good boy";
+			String Str = "Naveen is a good boy";
 			System.out.println(Str);
 			
 			int count = 0;
